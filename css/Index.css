@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.text-centro{
+    text-align: center;
+}
+#cabecalho, #divcentro, #rodape{
+    padding: 4px 0px;
+}
+
+#divcentro{
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    top: 20%;
+    bottom: 15%;
+}
+
+#corpo{
+    height: 80%;
+    float: center;
+}
+
+.divcentro{
+    float: center;
+}
+
